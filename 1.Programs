@@ -1,0 +1,139 @@
+Coding test contains 4 questions in which we have to do only 3
+1. It was based on a pattern ,we have to print the pattern
+2. Reverse array with some additional work
+3. Find the number to delete so that it makes a palindrome number .for ex-122321 Here 2 at index 0 or 1 should be deleted to make a palindrome number.
+4.We have to find the difference of stable numbers and unstable number
+Stable number is which contains same no. of each digit like 112233
+Unstable no. which has different no. of each digit like 1123
+
+Q1. Count Good Subsets You are given an array ‘ARR’ of size ‘N’ consisting of distinct elements. Your task is to find the total number of good subsets. A subset is called a g...read more
+Asked in
+Software Developer interview
+Q2. How to remove leading whitespaces from a string in the Python
+Asked in
+Salesforce Developer interview
+Q3. What is black box testing
+Asked in
+Quality Analyst interview
+Q4. what is your backgroud ?
+Asked in
+Electronics Communication Engineer interview
+Q5. Sum of minimum and maximum elements of all subarrays of size “K”
+You are given an array consisting of N integers, and an integer, K. Your task is to determine the total sum of the minimum element and the maximum element of all subarrays of size K
+
+
+1. Anagram or not 2. Is palindrome or not 3. Count number, Character,and special characters from string
+Arrays Programs
+
+
+1. WAP to sum values of an array.
+
+2. WAP to find the index of an array element.
+
+3. WAP to copy an array by iterating the array.
+
+4. WAP to add two matrices of the same size.
+
+5. WAP to check if an array of integers without 0 and -1.
+
+6. WAP to check if two arrays are equal or not.
+
+7. WAP to convert an array to ArrayList.
+
+8. WAP to convert an ArrayList to an array.
+
+Strings:
+
+1. WAP to reverse a given String?
+
+2. WAP to check if a given String is Palindrome or not?
+
+3. WAP to find the maximum & minimum occurring character in given String?
+
+4. WAP to count a number of words in String?
+
+5. WAP to print all permutation of a String?
+
+6. WAP to print the duplicate characters from the given String?
+
+7. WAP to remove a given character from String?
+
+8. WAP to remove all duplicates from a given string?
+
+9. WAP to remove characters from the first String which are present in the Smart Programming Smart P ramming Smart art PrograSecond Smart Programming String?
+
+10. WAP to find the first non-repeating character in a given String?
+
+11. WAP to check if two given String is the anagram of each other?
+
+12. Write a method to split a comma separated String in Java?
+
+
+Deletion:
+
+1. WAP to remove a specific element from an array.
+
+2. Write a Java program to remove duplicate elements from an array and then return the new length of the array.
+
+For ex: Sample array: [20, 20, 30, 40, 50, 50, 50]
+
+After removing the duplicate elements the program should return 4 as the new length of the array.
+
+
+Searching :
+
+1. WAP to test if an array contains a specific value using : 1.1 Linear/Sequential Search. 1.2 Binary Search
+
+2. WAP to find the maximum and minimum value in an array.
+
+3. WAP to find the second largest and smallest element in an array.
+
+4. WAP to find kth smallest and largest element in an array.
+
+5. WAP to find the duplicate values of an array of integer values.
+
+6. WAP to find the duplicate values of an array of string values.
+
+1. WAP to sum values of an array.
+
+2. WAP to find the index of an array element.
+
+3. WAP to copy an array by iterating the array.
+
+4. WAP to add two matrices of the same size.
+
+5. WAP to check if an array of integers without 0 and -1.
+
+6. WAP to check if two arrays are equal or not.
+
+7. WAP to convert an array to ArrayList.
+
+8. WAP to convert an ArrayList to an array.
+
+
+Searching:
+
+7. WAP to find the first duplicate or repeating element in an integer array.
+
+8. There is an array with every element repeated twice except one. Find that element?
+
+9. WAP to find the number of even and odd integers in a given array of integers.
+
+10. WAP to find the missing number in integer array of 1 to 10?
+
+11. WAP to find the duplicate elements between two arrays (integer values).
+
+12. WAP to find the duplicate elements between two arrays (string values).
+
+13. WAP to find duplicate elements from three sorted arrays.
+
+14. WAP to find length of longest consecutive sequence in array of integers.
+
+15. How to find sub array with maximum sum in an array of positive and negative number?
+
+
+Insertion :
+
+1. WAP to insert an element (specific position) into an array.
+
+
